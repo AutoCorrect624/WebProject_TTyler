@@ -6,7 +6,10 @@ div.nav
 	{text-align: center}
 
 div.logo
-	{text-align: center}
+	{text-align: center;
+	border: 5px solid red;
+	background-color: gray;
+	}
 
 .button
 	{
@@ -18,7 +21,7 @@ div.logo
 	  text-decoration: none;
 	  display: inline-block;
 	  font-size: 16px;
-	  margin: 4px 2px;
+	  margin: 4px 10px;
 	  cursor: pointer;
 	}
 	
@@ -38,6 +41,10 @@ div.logo
 		padding-left: 60px;
 		padding-right: 60px;
 	}
+	
+body.home {
+	background-color: #FF9494;
+}
 	
 
 
@@ -65,3 +72,25 @@ img.NES {
 	float: right;
 	padding: 20px;
 }		
+
+/*Consoles*/
+
+table {
+	border-collapse: separate;
+	border-spacing: 15px
+}
+
+th {
+	width: 1000px;
+	text-align: center;
+	border: 1px solid black;
+	padding: 5px;
+}
+
+
+td {
+	width: 1000px;
+	text-align: center;
+	border: 1px solid black;
+	padding: 5px;
+}
