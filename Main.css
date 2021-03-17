@@ -9,6 +9,8 @@ div.logo
 	{text-align: center;
 	border: 5px solid red;
 	background-color: gray;
+	padding: 5px;
+	margin: 50px 75px
 	}
 
 .button
