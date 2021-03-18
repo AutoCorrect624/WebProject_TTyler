@@ -68,9 +68,22 @@ iframe.trailer
 		height: 315px;
 		margin: 0 auto;
 		display: block;
+		border: 5px solid #434343;
 		
 	}
 
+div.Franchises
+	{
+		padding-left: 140px;
+		padding-right: 140px;
+		float: center;
+		display: block;
+		margin: auto;
+		text-align: center;
+		border: 5px solid #434343;
+
+	}
+	
 /*History*/
 img.HQ {
 	width: 30%;
