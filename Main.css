@@ -82,7 +82,7 @@ div.Franchises
 		
 
 	}
-*/
+
 
 *{
 	box-sizing: border-box;
@@ -105,7 +105,23 @@ div.Franchises_row
 		
 	}
 	
+*/
 
+.image-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 5px;
+}
+
+.image-container img {
+  width: 100%;
+  display: block;
+  box-sizing: border-box;
+}
+
+.image-container img.border {
+  border: 2px solid red;
+}
 	
 	
 /*History*/
