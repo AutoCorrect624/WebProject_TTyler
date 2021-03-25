@@ -28,7 +28,7 @@ div.logo
 	}
 
 .button:hover {
-	background-color: #FF0000;
+	  background-color: #FF0000;
 	  border: 5px solid #434343;
 	  color: white;
 	  padding: 15px 50px;
@@ -117,6 +117,27 @@ img.NES {
 
 /*Consoles*/
 
+body.Consoles {
+	background-color: #E73B3B;
+}
+
+
+div.scroll	
+	{
+	background-color: lightred;
+	width: 400px;
+	height: 200px;
+	overflow: auto;
+	}
+
+div.row
+	{
+	border: 5px solid #434343;
+	background-color: #FF9494;
+
+	}
+	
+/* Branches */
 table {
 	border-collapse: separate;
 	border-spacing: 15px
@@ -135,4 +156,4 @@ td {
 	text-align: center;
 	border: 1px solid black;
 	padding: 5px;
-}
+}	
