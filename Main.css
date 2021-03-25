@@ -121,21 +121,18 @@ body.Consoles {
 	background-color: #E73B3B;
 }
 
-
-div.scroll	
+div.Console_Info_Paragraph
 	{
-	background-color: lightred;
-	width: 400px;
-	height: 200px;
-	overflow: auto;
-	}
+	padding-left: 60px;
+	padding-right: 60px;
+}
 
 div.row
 	{
 	border: 5px solid #434343;
 	background-color: #FF9494;
 
-	}
+}
 	
 /* Branches */
 table {
