@@ -135,6 +135,15 @@ div.row
 }
 	
 /* Branches */
+
+div.logo_branches
+	{text-align: center;
+	border: 5px solid red;
+	background-color: gray;
+	padding: 5px;
+	margin: 30px 100px; 
+	}
+
 table {
 	border-collapse: separate;
 	border-spacing: 15px
