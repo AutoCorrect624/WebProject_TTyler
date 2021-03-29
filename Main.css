@@ -131,35 +131,33 @@ div.row
 	{
 	border: 5px solid #434343;
 	background-color: #FF9494;
-
 }
+
+div.col
+	{
+	padding: 10px;
+	font-size: 18px;
+	}
+
+div.logo_Consoles
+	{text-align: center;
+	border: 5px solid #434343;
+	background-color: #FF9494;
+	padding: 5px;
+	margin: 30px 100px; 
+	}
 	
 /* Branches */
 
 div.logo_branches
 	{text-align: center;
-	border: 5px solid red;
-	background-color: gray;
+	border: 5px solid #434343;
+	background-color: #FF9494;
 	padding: 5px;
 	margin: 30px 100px; 
 	}
-
-table {
-	border-collapse: separate;
-	border-spacing: 15px
-}
-
-th {
-	width: 1000px;
-	text-align: center;
-	border: 1px solid black;
-	padding: 5px;
-}
-
-
-td {
-	width: 1000px;
-	text-align: center;
-	border: 1px solid black;
-	padding: 5px;
-}	
+	
+div.col-sm
+	{
+	font-size: 18px;
+	}
