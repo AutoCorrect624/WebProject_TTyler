@@ -91,6 +91,19 @@ iframe.trailer
 	
 	
 /*History*/
+
+body.history {
+	background-color: #FF9494;
+}
+
+p.fs-6{
+	padding-left: 35px;
+	padding-right: 35px;
+	background-color: #E73B3B;
+	border: 5px solid #434343;
+}
+
+
 img.HQ {
 	width: 30%;
 	float: left;
@@ -161,3 +174,4 @@ div.col-sm
 	{
 	font-size: 18px;
 	}
+	
