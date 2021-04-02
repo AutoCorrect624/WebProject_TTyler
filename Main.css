@@ -173,6 +173,10 @@ div.logo_Consoles
 	
 /* Branches */
 
+body.Branches {
+	background-color: #E73B3B;
+}
+
 div.logo_branches
 	{text-align: center;
 	border: 5px solid #434343;
