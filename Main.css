@@ -85,12 +85,19 @@ iframe.trailer
   box-sizing: border-box;
 }
 
-.image-container img.border {
+.image-container img.img-fluid {
   border: 2px solid red;
 }
 	
 	
 /*History*/
+div.logo
+	{text-align: center;
+	border: 5px solid #434343;
+	background-color: #E73B3B;
+	padding: 5px;
+	margin: 50px 75px
+	}
 
 body.history {
 	background-color: #FF9494;
@@ -99,10 +106,13 @@ body.history {
 p.fs-6{
 	padding-left: 35px;
 	padding-right: 35px;
+	
+}
+
+div.border_fs {
 	background-color: #E73B3B;
 	border: 5px solid #434343;
 }
-
 
 img.HQ {
 	width: 30%;
