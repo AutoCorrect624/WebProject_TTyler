@@ -87,6 +87,7 @@ iframe.trailer
 
 .image-container img.img-fluid {
   border: 2px solid red;
+  padding: 5px;
 }
 	
 	
