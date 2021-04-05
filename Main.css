@@ -113,6 +113,9 @@ p.fs-6{
 div.border_fs {
 	background-color: #E73B3B;
 	border: 5px solid #434343;
+	padding-left: 35px;
+	padding-right: 35px;
+	
 }
 
 img.HQ {
