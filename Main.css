@@ -4,6 +4,10 @@
 
 div.navi
 	{text-align: center}
+	
+.nav_border {
+	border: 5px solid #434343;
+}
 
 div.logo
 	{text-align: center;
@@ -104,11 +108,10 @@ body.history {
 	background-color: #FF9494;
 }
 
-p.fs-6{
-	padding-left: 35px;
-	padding-right: 35px;
-	
+div.padding_History {
+	padding: 10px;
 }
+
 
 div.border_fs {
 	background-color: #E73B3B;
